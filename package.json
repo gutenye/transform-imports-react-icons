@@ -1,0 +1,9 @@
+{
+  "name": "transform-imports-react-icons",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "lodash.kebabcase": "^4.1.1"
+  }
+}
