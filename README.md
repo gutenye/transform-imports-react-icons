@@ -1,4 +1,4 @@
-A [babel-tranfrom-imports](https://bitbucket.org/amctheatres/babel-transform-imports) plugin for [react-icons](https://github.com/gorangajic/react-icons)
+A [babel-transfrom-imports](https://bitbucket.org/amctheatres/babel-transform-imports) plugin for [react-icons](https://github.com/gorangajic/react-icons)
 
 ## Getting Started
 
