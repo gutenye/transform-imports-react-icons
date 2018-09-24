@@ -3,7 +3,7 @@ A [babel-transfrom-imports](https://bitbucket.org/amctheatres/babel-transform-im
 ## Getting Started
 
 ```
-$ yarn add --dev transform-imports-react-icons babel-plugin-transform-import 
+$ yarn add --dev transform-imports-react-icons babel-plugin-transform-imports 
 
 # .babelrc
 
